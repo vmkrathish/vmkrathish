@@ -181,7 +181,6 @@ print(me.motto())
 | 📊 | **NISM-SEBI Financial Literacy Quiz 2026** | College Round Participant |
 | 🎬 | **IIC Competition — AI in Campus Life** | Team Lead for 15+ member documentary team |
 | 👨‍💼 | **Main Student Coordinator — TechAzura'27** | Led 500-participant CSE Symposium, HCET (3rd Year) |
-| 🎓 | **NPTEL Cloud Computing (IIT KGP)** | 55% · 4 Credits · Jan–Apr 2026 |
 | 🧠 | **Python for DS & ML** | Cambridge IQ × UniAthena · Blockchain Verified · June 2026 |
 | 🤖 | **Google Gemini Academy** | Transforming HE with Google Gemini × STTAR · Dec 2025 |
 | 🏫 | **Class Representative** | B.E. CSE, HCET · 1st Year |
@@ -196,7 +195,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| **B.E. Computer Science & Engineering** | HCET, Coimbatore | 2024 – 2028 | **CGPA 9.15 / 10** |
+| **B.E. Computer Science & Engineering** | HICET, Coimbatore | 2024 – 2028 | **CGPA 9.15 / 10** |
 
 </div>
 
