@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Full+Stack+Engineer;Startup+Founder+%40+Get+My+Service;AI%2FML+Enthusiast+%7C+NPTEL+Certified;B.E.+CSE+%40+HCET+%7C+CGPA+9.15%2F10" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Full+Stack+Engineer;Startup+Founder+%40+Get+My+Service;AI%2FML+Enthusiast+%7C+NPTEL+Certified;B.E.+CSE+%40+HICET+%7C+CGPA+9.15%2F10" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ class MKRathish:
         self.name         = "M K Rathish"
         self.username     = "vmkrathish"
         self.location     = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. CSE @ HCET (2024–2028, CGPA 9.15)"
+        self.degree       = "B.E. CSE @ HICET (2024–2028, CGPA 9.15)"
         self.email        = "mkrathish221311@gmail.com"
         self.linkedin     = "linkedin.com/in/mk-rathish"
 
@@ -175,16 +175,16 @@ print(me.motto())
 |:--:|:------------|:--------|
 | 🤖 | **Smart India Hackathon 2025** | National-level SIH Participant |
 | 🛣️ | **IIT Madras CoERS Hackathon** | Presented RoadWatch — Road Safety CV System |
-| 💡 | **IDEATHON 2025, HCET** | AI/ML & CSE Dept + EDC (Sep 15, 2025) |
+| 💡 | **IDEATHON 2025, HICET** | AI/ML & CSE Dept + EDC (Sep 15, 2025) |
 | 🎤 | **SREC UTSAVA'26** | PROMPTOPIA · PitchCraft · Treasure Hunt (Jan 2026) |
 | 🏅 | **CK Innovation Awards** | Presented Get My Service (GMS) startup concept |
 | 📊 | **NISM-SEBI Financial Literacy Quiz 2026** | College Round Participant |
 | 🎬 | **IIC Competition — AI in Campus Life** | Team Lead for 15+ member documentary team |
-| 👨‍💼 | **Main Student Coordinator — TechAzura'27** | Led 500-participant CSE Symposium, HCET (3rd Year) |
+| 👨‍💼 | **Main Student Coordinator — TechAzura'27** | Led 500-participant CSE Symposium, HICET (3rd Year) |
 | 🎓 | **NPTEL Cloud Computing (IIT KGP)** | 4 Credits · Jan–Apr 2026 |
 | 🧠 | **Python for DS & ML** | Cambridge IQ × UniAthena · Blockchain Verified · June 2026 |
 | 🤖 | **Google Gemini Academy** | Transforming HE with Google Gemini × STTAR · Dec 2025 |
-| 🏫 | **Class Representative** | B.E. CSE, HCET · 1st Year |
+| 🏫 | **Class Representative** | B.E. CSE, HICET · 1st Year |
 
 </div>
 
@@ -196,7 +196,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| **B.E. Computer Science & Engineering** | HCET, Coimbatore | 2024 – 2028 | **CGPA 9.15 / 10** |
+| **B.E. Computer Science & Engineering** | HICET, Coimbatore | 2024 – 2028 | **CGPA 9.15 / 10** |
 
 </div>
 
