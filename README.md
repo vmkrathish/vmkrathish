@@ -182,6 +182,7 @@ print(me.motto())
 | 📊 | **NISM-SEBI Financial Literacy Quiz 2026** | College Round Participant |
 | 🎬 | **IIC Competition — AI in Campus Life** | Team Lead for 15+ member documentary team |
 | 👨‍💼 | **Main Student Coordinator — TechAzura'27** | Led 500-participant CSE Symposium, HICET (3rd Year) |
+| 🚀 | **Student President — Department Entrepreneurship Development Cell (EDC)** | Appointed Student President for the Department EDC (2026–27), leading entrepreneurship initiatives, innovation programs, startup activities, and student engagement across the CSE department. |
 | 🎓 | **NPTEL Cloud Computing (IIT KGP)** | 4 Credits · Jan–Apr 2026 |
 | 🧠 | **Python for DS & ML** | Cambridge IQ × UniAthena · Blockchain Verified · June 2026 |
 | 🤖 | **Google Gemini Academy** | Transforming HE with Google Gemini × STTAR · Dec 2025 |
