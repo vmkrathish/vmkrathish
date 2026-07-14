@@ -130,7 +130,8 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vmkrathish/vmkrathish/output/github-contribution-grid-snake.svg">
+  <img src="https://github-profile-trophy.vercel.app/?username=vmkrathish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+
   </div>
 
 ---
