@@ -130,15 +130,15 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vmkrathish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
+  <img src="https://raw.githubusercontent.com/vmkrathish/vmkrathish/output/github-contribution-grid-snake.svg">
+  </div>
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Hardwin Solutions, Bangalore</b> — Machine Learning Trainee &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Bangalore, India</summary>
+<summary><b>🏢 Hardwin Solutions, Bangalore</b> — Machine Learning Trainee &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Bangalore, India</summary>
 
 <br/>
 
