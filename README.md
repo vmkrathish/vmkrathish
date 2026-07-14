@@ -186,6 +186,7 @@ print(me.motto())
 | 🧠 | **Python for DS & ML** | Cambridge IQ × UniAthena · Blockchain Verified · June 2026 |
 | 🤖 | **Google Gemini Academy** | Transforming HE with Google Gemini × STTAR · Dec 2025 |
 | 🏫 | **Class Representative** | B.E. CSE, HICET · 1st Year |
+| 🏕️ | **Bharat Scouts & Guides** | Patrol Leader — Led my school troop patrol, organized activities, mentored team members, and demonstrated leadership and teamwork. |
 
 </div>
 
