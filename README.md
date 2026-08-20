@@ -23,15 +23,17 @@ class MKRathish:
     def __init__(self):
         self.name         = "M K Rathish"
         self.username     = "vmkrathish"
-        self.location     = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. CSE @ HICET (2024–2028, CGPA 9.15)"
+        self.location     = "Salem, Tamil Nadu, India 🇮🇳"
+        self.degree       = "B.E. CSE @ HICET (2024–2028, CGPA 9.02)"
         self.email        = "mkrathish221311@gmail.com"
         self.linkedin     = "linkedin.com/in/mk-rathish"
+        self.portfolio     = "vmkrathish.pages.dev"
+        
 
         self.stack = [
             "Flutter", "Dart", "FastAPI",
-            "Python", "Node.js", "MySQL",
-            "Firebase", "Express.js", "REST APIs",
+            "Python", "Node.js", "MySQL", "Postgre SQL",
+            "Firebase", "Supabase", "REST APIs",
         ]
 
         self.currentlyLearning = [
@@ -160,8 +162,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🛒 Get My Service (GMS)**](https://github.com/vmkrathish) | Flutter · FastAPI · MySQL · Firebase | Founded & built full service marketplace end-to-end — booking management, real-time chat, push notifications, multi-role profiles, service discovery. Led concept → architecture → development → launch solo. |
-| [**🛣️ RoadWatch**](https://github.com/vmkrathish) | Python · Computer Vision · YOLOv8 | Tech-driven road safety monitoring & incident reporting system presented at **IIT Madras CoERS Hackathon**. Applied CV for real-world transportation safety. |
+| [**🛒 Get My Service (GMS)**](https://github.com/vmkrathish/GMS) | Flutter · FastAPI · MySQL · Firebase | Founded & built full service marketplace end-to-end — booking management, real-time chat, push notifications, multi-role profiles, service discovery. Led concept → architecture → development → launch solo. |
+| [**🛣️ RoadWatch**](https://github.com/vmkrathish/roadwatch-backend) | Python · Computer Vision · YOLOv8 | Tech-driven road safety monitoring & incident reporting system presented at **IIT Madras CoERS Hackathon**. Applied CV for real-world transportation safety. |
 | [**🧾 E-Bill Management Software**](https://github.com/vmkrathish) | Python | Commercial billing software delivered for **SRS Agencies** — automated invoicing, customer management, transaction records. First production client delivery in 12th Grade. |
 
 </div>
@@ -221,7 +223,8 @@ print(me.motto())
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:mkrathish221311@gmail.com">
+
+  <a href="mailto:mk.rathish22311@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/mk-rathish">
@@ -229,6 +232,9 @@ print(me.motto())
   </a>
   <a href="https://github.com/vmkrathish">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://vmkrathish.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-VMK-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
