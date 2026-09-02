@@ -24,7 +24,7 @@ class MKRathish:
         self.name         = "M K Rathish"
         self.username     = "vmkrathish"
         self.location     = "Salem, Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. CSE @ HICET (2024–2028, CGPA 9.02)"
+        self.degree       = "B.E. CSE @ HICET (2024–2028, CGPA 8.85)"
         self.email        = "mkrathish221311@gmail.com"
         self.linkedin     = "linkedin.com/in/mk-rathish"
         self.portfolio     = "vmkrathish.pages.dev"
@@ -201,7 +201,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| **B.E. Computer Science & Engineering** | HICET, Coimbatore | 2024 – 2028 | **CGPA 9.02 / 10** |
+| **B.E. Computer Science & Engineering** | HICET, Coimbatore | 2024 – 2028 | **CGPA 8.85 / 10** |
 
 </div>
 
